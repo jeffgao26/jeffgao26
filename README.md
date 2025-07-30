@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Jeffrey Gao
 
-<!--
-**jeffgao26/jeffgao26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science + Data Science** student at **UC Berkeley**. I'm passionate about the integration of ML to improve our daily lives. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- 🔧 Hardware & Systems (RISC-V, CPU design, memory management)
+- 👀 Computer Vision
+- 🤖 Reinforcement Learning
+
+
+---
+
+### Reach Me at
+- Email: jeffrey_gao@berkeley.edu  
+- LinkedIn: [linkedin.com/in/jeffreygao26]
+
