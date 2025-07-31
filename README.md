@@ -5,9 +5,9 @@ I'm a **Computer Science + Data Science** student at **UC Berkeley**. I'm passio
 ---
 
 ### Currently Learning
-- 🔧 Hardware & Systems (RISC-V, CPU design, memory management)
-- 👀 Computer Vision
-- 🤖 Reinforcement Learning
+- Hardware & Systems (RISC-V, CPU design, memory management)
+- Computer Vision
+- Reinforcement Learning
 
 
 ---
